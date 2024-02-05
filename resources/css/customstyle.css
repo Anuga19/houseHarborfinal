@@ -1,0 +1,131 @@
+#bgbutton{
+    background-color: rgb(23, 13, 168);
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+    margin-right: 20px;
+}
+#navbgcolor{
+    background-color: rgb(11, 17, 75);
+}
+
+#navbarpad{
+   padding: 0px;
+   margin: 0px;
+
+}
+
+#nounder a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+#submitButton{
+    background-color: rgb(16, 9, 107);
+    border: none;
+    margin-bottom: 0px;
+}
+#submitButton:hover{
+    background-color: rgb(24, 174, 211);
+    color: black;
+    font-weight: bold;
+}
+
+/* ------------------------------------------------ */
+.form-header{
+    font-size: 30px;
+    margin: 15px;
+    font-weight: bold;
+}
+.formbgcolor{
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    width: 50%;
+    padding: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.form-group{
+    margin-bottom: 15px;
+}
+.checkbox label{
+    padding-left: 20px;
+}
+
+
+
+/*  */
+.sider-menu {
+    background-color: rgb(11, 17, 75);
+    color: #ffffff;
+    height: 100vh;
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+}
+
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px auto;
+    display: block;
+}
+
+.profile-info {
+    text-align: center;
+}
+
+.menu-item {
+    padding: 10px;
+    border-top: 1px solid #555;
+}
+
+.menu-item:first-child {
+    border-top: none;
+}
+
+.sider-menu a{
+    color: white;
+    text-align: center;
+}
+
+/* propertise */
+#listing{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mylisting{
+    background-color: rgba(231, 235, 235, 0.938);
+    padding: 15px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#mylisting a{
+    background-color: rgb(11, 17, 75);
+    border: none;
+}
+
+/*  */
+#dashbtop{
+    background-color: rgb(233, 233, 233);
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#dashbg{
+    background-color: rgb(233, 233, 233);
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+}
+#iconbg{
+    padding: 5px;
+}
+
+#store-growth{
+    background-color: rgb(233, 233, 233);
+    padding: 20px;
+    border-radius: 20px;
+}
